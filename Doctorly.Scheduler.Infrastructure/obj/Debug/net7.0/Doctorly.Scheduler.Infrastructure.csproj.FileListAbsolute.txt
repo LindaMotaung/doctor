@@ -1,0 +1,17 @@
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\bin\Debug\net7.0\Doctorly.Scheduler.Infrastructure.deps.json
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\bin\Debug\net7.0\Doctorly.Scheduler.Infrastructure.dll
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\bin\Debug\net7.0\Doctorly.Scheduler.Infrastructure.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\bin\Debug\net7.0\Doctorly.Scheduler.Application.dll
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\bin\Debug\net7.0\Doctorly.Scheduler.Domain.dll
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\bin\Debug\net7.0\Doctorly.Scheduler.Application.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\bin\Debug\net7.0\Doctorly.Scheduler.Domain.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\obj\Debug\net7.0\Doctorly.Scheduler.Infrastructure.csproj.AssemblyReference.cache
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\obj\Debug\net7.0\Doctorly.Scheduler.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\obj\Debug\net7.0\Doctorly.Scheduler.Infrastructure.AssemblyInfoInputs.cache
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\obj\Debug\net7.0\Doctorly.Scheduler.Infrastructure.AssemblyInfo.cs
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\obj\Debug\net7.0\Doctorly.Scheduler.Infrastructure.csproj.CoreCompileInputs.cache
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\obj\Debug\net7.0\Doctorly.Scheduler.Infrastructure.csproj.CopyComplete
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\obj\Debug\net7.0\Doctorly.Scheduler.Infrastructure.dll
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\obj\Debug\net7.0\refint\Doctorly.Scheduler.Infrastructure.dll
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\obj\Debug\net7.0\Doctorly.Scheduler.Infrastructure.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Infrastructure\obj\Debug\net7.0\ref\Doctorly.Scheduler.Infrastructure.dll

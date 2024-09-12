@@ -1,0 +1,17 @@
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\bin\Debug\net7.0\Doctorly.Scheduler.Persistence.deps.json
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\bin\Debug\net7.0\Doctorly.Scheduler.Persistence.dll
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\bin\Debug\net7.0\Doctorly.Scheduler.Persistence.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\bin\Debug\net7.0\Doctorly.Scheduler.Application.dll
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\bin\Debug\net7.0\Doctorly.Scheduler.Domain.dll
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\bin\Debug\net7.0\Doctorly.Scheduler.Application.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\bin\Debug\net7.0\Doctorly.Scheduler.Domain.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\obj\Debug\net7.0\Doctorly.Scheduler.Persistence.csproj.AssemblyReference.cache
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\obj\Debug\net7.0\Doctorly.Scheduler.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\obj\Debug\net7.0\Doctorly.Scheduler.Persistence.AssemblyInfoInputs.cache
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\obj\Debug\net7.0\Doctorly.Scheduler.Persistence.AssemblyInfo.cs
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\obj\Debug\net7.0\Doctorly.Scheduler.Persistence.csproj.CoreCompileInputs.cache
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\obj\Debug\net7.0\Doctorly.Scheduler.Persistence.csproj.CopyComplete
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\obj\Debug\net7.0\Doctorly.Scheduler.Persistence.dll
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\obj\Debug\net7.0\refint\Doctorly.Scheduler.Persistence.dll
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\obj\Debug\net7.0\Doctorly.Scheduler.Persistence.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Persistence\obj\Debug\net7.0\ref\Doctorly.Scheduler.Persistence.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OgMQYTaCWmGj+MNmfk/ktY+maKIsoDSqNjPgPt/Xon0=",
+  "Source": "Doctorly.Scheduler.Api",
+  "BasePath": "_content/Doctorly.Scheduler.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

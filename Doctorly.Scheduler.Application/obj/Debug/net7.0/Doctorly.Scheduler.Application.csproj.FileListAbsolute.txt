@@ -1,0 +1,15 @@
+C:\doc\doctorly\Doctorly.Scheduler.Application\bin\Debug\net7.0\Doctorly.Scheduler.Application.deps.json
+C:\doc\doctorly\Doctorly.Scheduler.Application\bin\Debug\net7.0\Doctorly.Scheduler.Application.dll
+C:\doc\doctorly\Doctorly.Scheduler.Application\bin\Debug\net7.0\Doctorly.Scheduler.Application.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Application\bin\Debug\net7.0\Doctorly.Scheduler.Domain.dll
+C:\doc\doctorly\Doctorly.Scheduler.Application\bin\Debug\net7.0\Doctorly.Scheduler.Domain.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Application\obj\Debug\net7.0\Doctorly.Scheduler.Application.csproj.AssemblyReference.cache
+C:\doc\doctorly\Doctorly.Scheduler.Application\obj\Debug\net7.0\Doctorly.Scheduler.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\doc\doctorly\Doctorly.Scheduler.Application\obj\Debug\net7.0\Doctorly.Scheduler.Application.AssemblyInfoInputs.cache
+C:\doc\doctorly\Doctorly.Scheduler.Application\obj\Debug\net7.0\Doctorly.Scheduler.Application.AssemblyInfo.cs
+C:\doc\doctorly\Doctorly.Scheduler.Application\obj\Debug\net7.0\Doctorly.Scheduler.Application.csproj.CoreCompileInputs.cache
+C:\doc\doctorly\Doctorly.Scheduler.Application\obj\Debug\net7.0\Doctorly.Scheduler.Application.csproj.CopyComplete
+C:\doc\doctorly\Doctorly.Scheduler.Application\obj\Debug\net7.0\Doctorly.Scheduler.Application.dll
+C:\doc\doctorly\Doctorly.Scheduler.Application\obj\Debug\net7.0\refint\Doctorly.Scheduler.Application.dll
+C:\doc\doctorly\Doctorly.Scheduler.Application\obj\Debug\net7.0\Doctorly.Scheduler.Application.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Application\obj\Debug\net7.0\ref\Doctorly.Scheduler.Application.dll

@@ -1,0 +1,11 @@
+C:\doc\doctorly\Doctorly.Scheduler.Domain\bin\Debug\net7.0\Doctorly.Scheduler.Domain.deps.json
+C:\doc\doctorly\Doctorly.Scheduler.Domain\bin\Debug\net7.0\Doctorly.Scheduler.Domain.dll
+C:\doc\doctorly\Doctorly.Scheduler.Domain\bin\Debug\net7.0\Doctorly.Scheduler.Domain.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Domain\obj\Debug\net7.0\Doctorly.Scheduler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\doc\doctorly\Doctorly.Scheduler.Domain\obj\Debug\net7.0\Doctorly.Scheduler.Domain.AssemblyInfoInputs.cache
+C:\doc\doctorly\Doctorly.Scheduler.Domain\obj\Debug\net7.0\Doctorly.Scheduler.Domain.AssemblyInfo.cs
+C:\doc\doctorly\Doctorly.Scheduler.Domain\obj\Debug\net7.0\Doctorly.Scheduler.Domain.csproj.CoreCompileInputs.cache
+C:\doc\doctorly\Doctorly.Scheduler.Domain\obj\Debug\net7.0\Doctorly.Scheduler.Domain.dll
+C:\doc\doctorly\Doctorly.Scheduler.Domain\obj\Debug\net7.0\refint\Doctorly.Scheduler.Domain.dll
+C:\doc\doctorly\Doctorly.Scheduler.Domain\obj\Debug\net7.0\Doctorly.Scheduler.Domain.pdb
+C:\doc\doctorly\Doctorly.Scheduler.Domain\obj\Debug\net7.0\ref\Doctorly.Scheduler.Domain.dll

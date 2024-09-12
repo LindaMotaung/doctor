@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v7.0": {
+      "Doctorly.Scheduler.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v7.0",
+        "dependencies": {
+          "Doctorly.Scheduler.Domain": "1.0.0"
+        }
+      },
+      "Doctorly.Scheduler.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v7.0"
+      }
+    }
+  },
+  "libraries": {
+    "Doctorly.Scheduler.Application/1.0.0": {
+      "type": "project",
+      "path": "../Doctorly.Scheduler.Application/Doctorly.Scheduler.Application.csproj",
+      "msbuildProject": "../Doctorly.Scheduler.Application/Doctorly.Scheduler.Application.csproj"
+    },
+    "Doctorly.Scheduler.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Doctorly.Scheduler.Domain/Doctorly.Scheduler.Domain.csproj",
+      "msbuildProject": "../Doctorly.Scheduler.Domain/Doctorly.Scheduler.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v7.0": [
+      "Doctorly.Scheduler.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LMOTAUN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\doc\\doctorly\\Doctorly.Scheduler.Persistence\\Doctorly.Scheduler.Persistence.csproj",
+      "projectName": "Doctorly.Scheduler.Persistence",
+      "projectPath": "C:\\doc\\doctorly\\Doctorly.Scheduler.Persistence\\Doctorly.Scheduler.Persistence.csproj",
+      "packagesPath": "C:\\Users\\LMOTAUN\\.nuget\\packages\\",
+      "outputPath": "C:\\doc\\doctorly\\Doctorly.Scheduler.Persistence\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\LMOTAUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net70"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net70": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\doc\\doctorly\\Doctorly.Scheduler.Application\\Doctorly.Scheduler.Application.csproj": {
+              "projectPath": "C:\\doc\\doctorly\\Doctorly.Scheduler.Application\\Doctorly.Scheduler.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net70": {
+        "targetAlias": "net7.0",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
